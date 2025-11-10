@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nellysoma on Github but my name is Harmony
 - 👀 I’m interested in developing software that makes life easy and adds value
-- 🌱 I’m currently learning Spring and Java 8
+- 🌱 I’m good with Spring, Java 8, Kafka, Docker, Microservices, Redis, you name it, the whole shebang
 - 💞️ I’m looking to collaborate on Spring Projects
 - 📫 How to reach me: nellysoma2005@yahoo.com
 
